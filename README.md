@@ -1,2 +1,3 @@
 # README #
-Test
+
+Practice repo for learning git!
